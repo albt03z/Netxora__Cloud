@@ -1,2 +1,2 @@
-# Netxora.cloud
+# Netxora cloud
 Netxora
