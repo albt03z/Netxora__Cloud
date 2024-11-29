@@ -37,8 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'apps.api',
-    'apps.app_netxora',
+    'apps.api.apps.ApiConfig',
+    'apps.app_netxora.apps.AppNetxoraConfig',
 ]
 
 MIDDLEWARE = [
